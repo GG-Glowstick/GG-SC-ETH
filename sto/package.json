@@ -1,0 +1,52 @@
+{
+  "name": "Labl-fashion-STO",
+  "version": "1.0.0",
+  "description": "Security Token Offering solution using ERC1404 for Labl Fashion LLC",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "any-promise": "^1.3.0",
+    "bignumber.js": "^7.2.1",
+    "bindings": "^1.3.1",
+    "truffle-hdwallet-provider": "0.0.6",
+    "web3": "^0.20.7",
+    "openzeppelin-solidity": "1.10.0",
+    "cors": "^2.8.5",
+    "ethereumjs-tx": "^1.3.7",
+    "express": "^4.16.4",
+    "jsonwebtoken": "8.5.1",
+    "dotenv": "8.1.0",
+    "mysql": "2.17.1 ",
+    "cryptr": "4.0.2",
+    "otplib": "11.0.1",
+    "eth-lightwallet": "4.0.0",
+    "hooked-web3-provider": "1.0.0",
+    "sha256": "0.2.0",
+    "ethjs-provider-signer": "0.1.4"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/nderebakelvin/g__and_h_blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/nderebakelvin/g__and_h_blockchain.git/issues"
+  },
+  "homepage": "https://gitlab.com/nderebakelvin/g__and_h_blockchain.git#readme"
+}
